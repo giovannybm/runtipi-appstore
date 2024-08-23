@@ -6,7 +6,7 @@
   "port": 9110,
   "id": "flood",
   "tipi_version": 1,
-  "version": "2.0.1",
+  "version": "4.8.2",
   "categories": ["utilities", "data"],
   "description": "Flood is a monitoring service for various torrent clients.",
   "short_desc": "A beautiful web UI for various torrent clients",

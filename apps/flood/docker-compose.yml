@@ -3,7 +3,7 @@ version: '3.7'
 services:
   flood:
     container_name: flood
-    image: perdian/flightlog:v2.0.1
+    image: jesec/flood:latest
     environment:
       - FLIGHTLOG_SERVER_CONTEXT_PATH=/
     volumes:

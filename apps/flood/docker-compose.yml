@@ -3,7 +3,7 @@ version: '3.7'
 services:
   flood:
     container_name: flood
-    image: jesec/flood:latest
+    image: jesec/flood:4.8.2
     environment:
       - FLIGHTLOG_SERVER_CONTEXT_PATH=/
     volumes:
